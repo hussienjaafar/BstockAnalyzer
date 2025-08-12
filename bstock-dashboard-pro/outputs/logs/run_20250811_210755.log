@@ -1,0 +1,366 @@
+2025-08-11 21:08:15,085 INFO row=0 OK sold=0 active=0 sold_p50=None act_p10=None kw=840268972691 mode=None cache=None raw=None took=0.01s
+2025-08-11 21:08:15,086 INFO row=1 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602720 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:15,088 INFO row=2 OK sold=0 active=4 sold_p50=None act_p10=14.0 kw=608410061088 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:15,090 INFO row=3 OK sold=1 active=11 sold_p50=13.0 act_p10=11.0 kw=745883799046 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:15,091 INFO row=4 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602720 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:15,092 INFO row=5 OK sold=0 active=4 sold_p50=None act_p10=14.0 kw=608410061088 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:15,093 INFO row=6 OK sold=0 active=0 sold_p50=None act_p10=None kw=810089906120 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:15,095 INFO row=7 OK sold=1 active=11 sold_p50=13.0 act_p10=11.0 kw=745883799046 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:15,096 INFO row=8 OK sold=0 active=2 sold_p50=None act_p10=65.6 kw=810046114957 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:15,099 INFO row=9 OK sold=11 active=4 sold_p50=325.0 act_p10=392.7 kw=840295405704 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:15,100 INFO row=10 OK sold=0 active=0 sold_p50=None act_p10=None kw=840268928780 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:15,101 INFO row=11 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602720 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:15,101 INFO row=12 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636248475 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:15,102 INFO row=13 OK sold=0 active=0 sold_p50=None act_p10=None kw=840272914656 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:28,986 INFO row=14 OK sold=0 active=0 sold_p50=None act_p10=None kw=198850234505 mode=None cache=None raw=None took=13.88s
+2025-08-11 21:08:28,988 INFO row=15 OK sold=0 active=4 sold_p50=None act_p10=14.0 kw=608410061088 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:40,089 INFO row=16 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636344863 mode=None cache=None raw=None took=11.10s
+2025-08-11 21:08:40,090 INFO row=17 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602720 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:40,094 INFO row=18 OK sold=1 active=11 sold_p50=13.0 act_p10=11.0 kw=745883799046 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:52,321 INFO row=19 OK sold=36 active=20 sold_p50=95.0 act_p10=85.6 kw=840272913888 mode=None cache=None raw=None took=12.23s
+2025-08-11 21:08:52,323 INFO row=20 OK sold=36 active=20 sold_p50=95.0 act_p10=85.6 kw=840272913888 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:52,325 INFO row=21 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636248475 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:08:52,326 INFO row=22 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636248475 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:09:03,446 INFO row=23 OK sold=0 active=0 sold_p50=None act_p10=None kw=847626007408 mode=None cache=None raw=None took=11.12s
+2025-08-11 21:09:03,447 INFO row=24 OK sold=0 active=4 sold_p50=None act_p10=14.0 kw=608410061088 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:09:03,448 INFO row=25 OK sold=0 active=0 sold_p50=None act_p10=None kw=840268972691 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:09:15,117 INFO row=26 OK sold=0 active=0 sold_p50=None act_p10=None kw=840272902981 mode=None cache=None raw=None took=11.67s
+2025-08-11 21:09:15,118 INFO row=27 OK sold=0 active=0 sold_p50=None act_p10=None kw=840272902981 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:09:26,216 INFO row=28 OK sold=0 active=0 sold_p50=None act_p10=None kw=198420097479 mode=None cache=None raw=None took=11.10s
+2025-08-11 21:09:26,218 INFO row=29 OK sold=0 active=2 sold_p50=None act_p10=65.6 kw=810046114957 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:09:37,386 INFO row=30 OK sold=0 active=0 sold_p50=None act_p10=None kw=840080584669 mode=None cache=None raw=None took=11.17s
+2025-08-11 21:09:49,008 INFO row=31 OK sold=12 active=16 sold_p50=25.5 act_p10=25.0 kw=810119072269 mode=None cache=None raw=None took=11.62s
+2025-08-11 21:09:49,009 INFO row=32 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636344863 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:10:00,419 INFO row=33 OK sold=0 active=0 sold_p50=None act_p10=None kw=198420077334 mode=None cache=None raw=None took=11.41s
+2025-08-11 21:10:11,463 INFO row=34 OK sold=0 active=0 sold_p50=None act_p10=None kw=879961009052 mode=None cache=None raw=None took=11.04s
+2025-08-11 21:10:22,349 INFO row=35 OK sold=0 active=0 sold_p50=None act_p10=None kw=30918014165 mode=None cache=None raw=None took=10.89s
+2025-08-11 21:10:33,401 INFO row=36 OK sold=5 active=6 sold_p50=20.0 act_p10=17.0 kw=847626007583 mode=None cache=None raw=None took=11.05s
+2025-08-11 21:10:33,403 INFO row=37 OK sold=0 active=0 sold_p50=None act_p10=None kw=840272914656 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:10:44,541 INFO row=38 OK sold=6 active=9 sold_p50=11.0 act_p10=11.6 kw=30878791663 mode=None cache=None raw=None took=11.14s
+2025-08-11 21:10:56,720 INFO row=39 OK sold=9 active=13 sold_p50=34.0 act_p10=17.6 kw=198420079178 mode=None cache=None raw=None took=12.18s
+2025-08-11 21:11:07,858 INFO row=40 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636369323 mode=None cache=None raw=None took=11.14s
+2025-08-11 21:11:18,971 INFO row=41 OK sold=0 active=0 sold_p50=None act_p10=None kw=810186494407 mode=None cache=None raw=None took=11.11s
+2025-08-11 21:11:18,972 INFO row=42 OK sold=0 active=0 sold_p50=None act_p10=None kw=198850234505 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:11:18,973 INFO row=43 OK sold=0 active=0 sold_p50=None act_p10=None kw=198420097479 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:11:30,210 INFO row=44 OK sold=0 active=0 sold_p50=None act_p10=None kw=840390335777 mode=None cache=None raw=None took=11.23s
+2025-08-11 21:11:41,947 INFO row=45 OK sold=47 active=17 sold_p50=79.0 act_p10=72.4 kw=810164140234 mode=None cache=None raw=None took=11.74s
+2025-08-11 21:11:41,948 INFO row=46 OK sold=0 active=0 sold_p50=None act_p10=None kw=840268928780 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:11:41,948 INFO row=47 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636344863 mode=None cache=None raw=None took=0.00s
+2025-08-11 21:11:53,456 INFO row=48 OK sold=0 active=0 sold_p50=None act_p10=None kw=30918010402 mode=None cache=None raw=None took=11.51s
+2025-08-11 21:11:53,457 INFO row=49 OK sold=0 active=0 sold_p50=None act_p10=None kw=30918010402 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,665 INFO row=0 OK sold=0 active=0 sold_p50=None act_p10=None kw=840268972691 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,666 INFO row=1 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602720 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,667 INFO row=2 OK sold=0 active=4 sold_p50=None act_p10=14.0 kw=608410061088 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,669 INFO row=3 OK sold=1 active=11 sold_p50=13.0 act_p10=11.0 kw=745883799046 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,670 INFO row=4 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602720 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,671 INFO row=5 OK sold=0 active=4 sold_p50=None act_p10=14.0 kw=608410061088 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,672 INFO row=6 OK sold=0 active=0 sold_p50=None act_p10=None kw=810089906120 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,674 INFO row=7 OK sold=1 active=11 sold_p50=13.0 act_p10=11.0 kw=745883799046 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,674 INFO row=8 OK sold=0 active=2 sold_p50=None act_p10=65.6 kw=810046114957 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,676 INFO row=9 OK sold=11 active=4 sold_p50=325.0 act_p10=392.7 kw=840295405704 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,676 INFO row=10 OK sold=0 active=0 sold_p50=None act_p10=None kw=840268928780 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,678 INFO row=11 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602720 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,679 INFO row=12 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636248475 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,679 INFO row=13 OK sold=0 active=0 sold_p50=None act_p10=None kw=840272914656 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,681 INFO row=14 OK sold=0 active=0 sold_p50=None act_p10=None kw=198850234505 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,683 INFO row=15 OK sold=0 active=4 sold_p50=None act_p10=14.0 kw=608410061088 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,683 INFO row=16 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636344863 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,683 INFO row=17 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602720 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,686 INFO row=18 OK sold=1 active=11 sold_p50=13.0 act_p10=11.0 kw=745883799046 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,688 INFO row=19 OK sold=36 active=20 sold_p50=95.0 act_p10=85.6 kw=840272913888 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,692 INFO row=20 OK sold=36 active=20 sold_p50=95.0 act_p10=85.6 kw=840272913888 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,693 INFO row=21 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636248475 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,693 INFO row=22 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636248475 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,694 INFO row=23 OK sold=0 active=0 sold_p50=None act_p10=None kw=847626007408 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,694 INFO row=24 OK sold=0 active=4 sold_p50=None act_p10=14.0 kw=608410061088 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,695 INFO row=25 OK sold=0 active=0 sold_p50=None act_p10=None kw=840268972691 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,696 INFO row=26 OK sold=0 active=0 sold_p50=None act_p10=None kw=840272902981 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,696 INFO row=27 OK sold=0 active=0 sold_p50=None act_p10=None kw=840272902981 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,696 INFO row=28 OK sold=0 active=0 sold_p50=None act_p10=None kw=198420097479 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,699 INFO row=29 OK sold=0 active=2 sold_p50=None act_p10=65.6 kw=810046114957 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,699 INFO row=30 OK sold=0 active=0 sold_p50=None act_p10=None kw=840080584669 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,701 INFO row=31 OK sold=12 active=16 sold_p50=25.5 act_p10=25.0 kw=810119072269 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,702 INFO row=32 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636344863 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,703 INFO row=33 OK sold=0 active=0 sold_p50=None act_p10=None kw=198420077334 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,704 INFO row=34 OK sold=0 active=0 sold_p50=None act_p10=None kw=879961009052 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,704 INFO row=35 OK sold=0 active=0 sold_p50=None act_p10=None kw=30918014165 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,705 INFO row=36 OK sold=5 active=6 sold_p50=20.0 act_p10=17.0 kw=847626007583 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,706 INFO row=37 OK sold=0 active=0 sold_p50=None act_p10=None kw=840272914656 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,708 INFO row=38 OK sold=6 active=9 sold_p50=11.0 act_p10=11.6 kw=30878791663 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,708 INFO row=39 OK sold=9 active=13 sold_p50=34.0 act_p10=17.6 kw=198420079178 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,711 INFO row=40 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636369323 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,711 INFO row=41 OK sold=0 active=0 sold_p50=None act_p10=None kw=810186494407 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,712 INFO row=42 OK sold=0 active=0 sold_p50=None act_p10=None kw=198850234505 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,713 INFO row=43 OK sold=0 active=0 sold_p50=None act_p10=None kw=198420097479 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,715 INFO row=44 OK sold=0 active=0 sold_p50=None act_p10=None kw=840390335777 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,716 INFO row=45 OK sold=47 active=17 sold_p50=79.0 act_p10=72.4 kw=810164140234 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,716 INFO row=46 OK sold=0 active=0 sold_p50=None act_p10=None kw=840268928780 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,717 INFO row=47 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636344863 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,718 INFO row=48 OK sold=0 active=0 sold_p50=None act_p10=None kw=30918010402 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,718 INFO row=49 OK sold=0 active=0 sold_p50=None act_p10=None kw=30918010402 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,720 INFO row=50 OK sold=0 active=0 sold_p50=None act_p10=None kw=30918014165 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:15,721 INFO row=51 OK sold=6 active=9 sold_p50=11.0 act_p10=11.6 kw=30878791663 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:30,188 INFO row=52 OK sold=59 active=57 sold_p50=34.0 act_p10=31.0 kw=840080510965 mode=None cache=None raw=None took=14.47s
+2025-08-12 01:13:30,190 INFO row=53 OK sold=12 active=16 sold_p50=25.5 act_p10=25.0 kw=810119072269 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:30,192 INFO row=54 OK sold=12 active=16 sold_p50=25.5 act_p10=25.0 kw=810119072269 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:13:40,983 INFO row=55 OK sold=0 active=0 sold_p50=None act_p10=None kw=90729615562 mode=None cache=None raw=None took=10.79s
+2025-08-12 01:13:51,909 INFO row=56 OK sold=0 active=0 sold_p50=None act_p10=None kw=847626006869 mode=None cache=None raw=None took=10.93s
+2025-08-12 01:13:51,911 INFO row=57 OK sold=0 active=0 sold_p50=None act_p10=None kw=198850234505 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:14:03,049 INFO row=58 OK sold=0 active=6 sold_p50=None act_p10=18.5 kw=734646083478 mode=None cache=None raw=None took=11.14s
+2025-08-12 01:14:13,908 INFO row=59 OK sold=0 active=0 sold_p50=None act_p10=None kw=734646083461 mode=None cache=None raw=None took=10.86s
+2025-08-12 01:14:25,493 INFO row=60 OK sold=1 active=2 sold_p50=18.0 act_p10=19.5 kw=10343876248 mode=None cache=None raw=None took=11.59s
+2025-08-12 01:14:36,524 INFO row=61 OK sold=10 active=14 sold_p50=13.5 act_p10=12.0 kw=745883877584 mode=None cache=None raw=None took=11.03s
+2025-08-12 01:14:36,524 INFO row=62 OK sold=1 active=11 sold_p50=13.0 act_p10=11.0 kw=745883799046 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:14:36,529 INFO row=63 OK sold=0 active=0 sold_p50=None act_p10=None kw=30918014165 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:14:47,528 INFO row=64 OK sold=4 active=16 sold_p50=41.0 act_p10=41.0 kw=879961009045 mode=None cache=None raw=None took=11.01s
+2025-08-12 01:14:58,624 INFO row=65 OK sold=0 active=0 sold_p50=None act_p10=None kw=810119071033 mode=None cache=None raw=None took=11.09s
+2025-08-12 01:14:58,626 INFO row=66 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636248475 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:15:09,683 INFO row=67 OK sold=0 active=0 sold_p50=None act_p10=None kw=197543409138 mode=None cache=None raw=None took=11.06s
+2025-08-12 01:15:20,376 INFO row=68 OK sold=0 active=0 sold_p50=None act_p10=None kw=191205670966 mode=None cache=None raw=None took=10.69s
+2025-08-12 01:15:20,377 INFO row=69 OK sold=0 active=0 sold_p50=None act_p10=None kw=198420077334 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:15:31,518 INFO row=70 OK sold=0 active=0 sold_p50=None act_p10=None kw=17817852487 mode=None cache=None raw=None took=11.14s
+2025-08-12 01:15:42,770 INFO row=71 OK sold=0 active=0 sold_p50=None act_p10=None kw=194644136543 mode=None cache=None raw=None took=11.25s
+2025-08-12 01:15:53,766 INFO row=72 OK sold=0 active=0 sold_p50=None act_p10=None kw=810119071224 mode=None cache=None raw=None took=10.99s
+2025-08-12 01:16:05,138 INFO row=73 OK sold=0 active=0 sold_p50=None act_p10=None kw=836213001950 mode=None cache=None raw=None took=11.37s
+2025-08-12 01:16:15,867 INFO row=74 OK sold=0 active=0 sold_p50=None act_p10=None kw=810186490003 mode=None cache=None raw=None took=10.73s
+2025-08-12 01:16:27,088 INFO row=75 OK sold=0 active=0 sold_p50=None act_p10=None kw=97855062468 mode=None cache=None raw=None took=11.22s
+2025-08-12 01:16:27,090 INFO row=76 OK sold=9 active=13 sold_p50=34.0 act_p10=17.6 kw=198420079178 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:16:27,091 INFO row=77 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636369323 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:16:37,737 INFO row=78 OK sold=0 active=0 sold_p50=None act_p10=None kw=810186494377 mode=None cache=None raw=None took=10.65s
+2025-08-12 01:16:37,737 INFO row=79 OK sold=0 active=0 sold_p50=None act_p10=None kw=847626006869 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:16:48,276 INFO row=80 OK sold=0 active=0 sold_p50=None act_p10=None kw=810186494421 mode=None cache=None raw=None took=10.53s
+2025-08-12 01:16:48,277 INFO row=81 OK sold=0 active=0 sold_p50=None act_p10=None kw=810186494407 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:16:48,278 INFO row=82 OK sold=0 active=0 sold_p50=None act_p10=None kw=191205670966 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:16:59,210 INFO row=83 OK sold=0 active=0 sold_p50=None act_p10=None kw=745883868711 mode=None cache=None raw=None took=10.93s
+2025-08-12 01:17:10,522 INFO row=84 OK sold=0 active=0 sold_p50=None act_p10=None kw=850033806182 mode=None cache=None raw=None took=11.31s
+2025-08-12 01:17:21,652 INFO row=85 OK sold=26 active=9 sold_p50=88.5 act_p10=65.0 kw=840272915295 mode=None cache=None raw=None took=11.13s
+2025-08-12 01:17:21,653 INFO row=86 OK sold=0 active=0 sold_p50=None act_p10=None kw=840272902981 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:17:21,654 INFO row=87 OK sold=26 active=9 sold_p50=88.5 act_p10=65.0 kw=840272915295 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:17:32,657 INFO row=88 OK sold=0 active=0 sold_p50=None act_p10=None kw=3700546708190 mode=None cache=None raw=None took=11.00s
+2025-08-12 01:17:43,429 INFO row=89 OK sold=0 active=0 sold_p50=None act_p10=None kw=194644115777 mode=None cache=None raw=None took=10.77s
+2025-08-12 01:17:54,189 INFO row=90 OK sold=0 active=0 sold_p50=None act_p10=None kw=198926005879 mode=None cache=None raw=None took=10.76s
+2025-08-12 01:18:05,295 INFO row=91 OK sold=0 active=0 sold_p50=None act_p10=None kw=811659038753 mode=None cache=None raw=None took=11.11s
+2025-08-12 01:18:16,779 INFO row=92 OK sold=36 active=35 sold_p50=41.5 act_p10=29.200000000000003 kw=810033110146 mode=None cache=None raw=None took=11.48s
+2025-08-12 01:18:27,679 INFO row=93 OK sold=0 active=0 sold_p50=None act_p10=None kw=198420077563 mode=None cache=None raw=None took=10.90s
+2025-08-12 01:18:27,679 INFO row=94 OK sold=0 active=0 sold_p50=None act_p10=None kw=198420077563 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:18:38,564 INFO row=95 OK sold=0 active=0 sold_p50=None act_p10=None kw=889232609553 mode=None cache=None raw=None took=10.88s
+2025-08-12 01:18:49,596 INFO row=96 OK sold=0 active=0 sold_p50=None act_p10=None kw=840056168138 mode=None cache=None raw=None took=11.03s
+2025-08-12 01:19:00,710 INFO row=97 OK sold=0 active=0 sold_p50=None act_p10=None kw=90729615302 mode=None cache=None raw=None took=11.11s
+2025-08-12 01:19:00,711 INFO row=98 OK sold=0 active=0 sold_p50=None act_p10=None kw=197543409138 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:19:00,712 INFO row=99 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602720 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:19:00,714 INFO row=100 OK sold=0 active=4 sold_p50=None act_p10=14.0 kw=608410061088 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:19:11,873 INFO row=101 OK sold=0 active=0 sold_p50=None act_p10=None kw=85239672235 mode=None cache=None raw=None took=11.16s
+2025-08-12 01:19:22,757 INFO row=102 OK sold=0 active=1 sold_p50=None act_p10=20.0 kw=810125119569 mode=None cache=None raw=None took=10.88s
+2025-08-12 01:19:33,813 INFO row=103 OK sold=14 active=17 sold_p50=23.5 act_p10=18.0 kw=857199008344 mode=None cache=None raw=None took=11.06s
+2025-08-12 01:19:44,788 INFO row=104 OK sold=0 active=0 sold_p50=None act_p10=None kw=194644183219 mode=None cache=None raw=None took=10.97s
+2025-08-12 01:19:44,788 INFO row=105 OK sold=0 active=0 sold_p50=None act_p10=None kw=194644183219 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:19:44,788 INFO row=106 OK sold=1 active=11 sold_p50=13.0 act_p10=11.0 kw=745883799046 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:19:55,351 INFO row=107 OK sold=0 active=0 sold_p50=None act_p10=None kw=810186494384 mode=None cache=None raw=None took=10.56s
+2025-08-12 01:19:55,353 INFO row=108 OK sold=0 active=0 sold_p50=None act_p10=None kw=198420097479 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:20:06,624 INFO row=109 OK sold=5 active=32 sold_p50=10.0 act_p10=7.0 kw=39800102881 mode=None cache=None raw=None took=11.27s
+2025-08-12 01:20:17,647 INFO row=110 OK sold=0 active=0 sold_p50=None act_p10=None kw=97855107084 mode=None cache=None raw=None took=11.02s
+2025-08-12 01:20:28,708 INFO row=111 OK sold=5 active=6 sold_p50=12.0 act_p10=13.0 kw=745883842117 mode=None cache=None raw=None took=11.06s
+2025-08-12 01:20:40,094 INFO row=112 OK sold=0 active=0 sold_p50=None act_p10=None kw=810052981697 mode=None cache=None raw=None took=11.38s
+2025-08-12 01:20:40,096 INFO row=113 OK sold=0 active=0 sold_p50=None act_p10=None kw=810052981697 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:20:51,089 INFO row=114 OK sold=0 active=0 sold_p50=None act_p10=None kw=5061016033289 mode=None cache=None raw=None took=10.99s
+2025-08-12 01:21:01,912 INFO row=115 OK sold=0 active=0 sold_p50=None act_p10=None kw=840171742190 mode=None cache=None raw=None took=10.82s
+2025-08-12 01:21:12,607 INFO row=116 OK sold=0 active=0 sold_p50=None act_p10=None kw=198850385047 mode=None cache=None raw=None took=10.70s
+2025-08-12 01:21:23,822 INFO row=117 OK sold=0 active=0 sold_p50=None act_p10=None kw=857199008252 mode=None cache=None raw=None took=11.21s
+2025-08-12 01:21:34,759 INFO row=118 OK sold=0 active=0 sold_p50=None act_p10=None kw=857199008245 mode=None cache=None raw=None took=10.93s
+2025-08-12 01:21:45,580 INFO row=119 OK sold=4 active=4 sold_p50=28.0 act_p10=28.5 kw=97855199706 mode=None cache=None raw=None took=10.82s
+2025-08-12 01:21:56,597 INFO row=120 OK sold=0 active=0 sold_p50=None act_p10=None kw=840056130395 mode=None cache=None raw=None took=11.01s
+2025-08-12 01:22:08,015 INFO row=121 OK sold=6 active=38 sold_p50=17.0 act_p10=10.4 kw=85239666708 mode=None cache=None raw=None took=11.42s
+2025-08-12 01:22:08,015 INFO row=122 OK sold=4 active=4 sold_p50=28.0 act_p10=28.5 kw=97855199706 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:22:18,892 INFO row=123 OK sold=0 active=0 sold_p50=None act_p10=None kw=840171742237 mode=None cache=None raw=None took=10.87s
+2025-08-12 01:22:18,892 INFO row=124 OK sold=0 active=0 sold_p50=None act_p10=None kw=198850385047 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:22:29,791 INFO row=125 OK sold=0 active=0 sold_p50=None act_p10=None kw=810119070937 mode=None cache=None raw=None took=10.90s
+2025-08-12 01:22:40,606 INFO row=126 OK sold=0 active=0 sold_p50=None act_p10=None kw=74101210903 mode=None cache=None raw=None took=10.81s
+2025-08-12 01:22:51,484 INFO row=127 OK sold=0 active=0 sold_p50=None act_p10=None kw=879961009038 mode=None cache=None raw=None took=10.88s
+2025-08-12 01:22:51,484 INFO row=128 OK sold=0 active=0 sold_p50=None act_p10=None kw=30918010402 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:22:51,484 INFO row=129 OK sold=0 active=0 sold_p50=None act_p10=None kw=879961009038 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:23:02,413 INFO row=130 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602256 mode=None cache=None raw=None took=10.92s
+2025-08-12 01:23:02,415 INFO row=131 OK sold=10 active=14 sold_p50=13.5 act_p10=12.0 kw=745883877584 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:23:02,417 INFO row=132 OK sold=10 active=14 sold_p50=13.5 act_p10=12.0 kw=745883877584 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:23:13,184 INFO row=133 OK sold=1 active=0 sold_p50=14.0 act_p10=None kw=810034224408 mode=None cache=None raw=None took=10.77s
+2025-08-12 01:23:24,823 INFO row=134 OK sold=22 active=16 sold_p50=39.0 act_p10=33.5 kw=10343923904 mode=None cache=None raw=None took=11.64s
+2025-08-12 01:23:35,973 INFO row=135 OK sold=5 active=5 sold_p50=12.0 act_p10=10.2 kw=840056183148 mode=None cache=None raw=None took=11.15s
+2025-08-12 01:23:47,105 INFO row=136 OK sold=0 active=0 sold_p50=None act_p10=None kw=812887017404 mode=None cache=None raw=None took=11.13s
+2025-08-12 01:23:47,107 INFO row=137 OK sold=0 active=0 sold_p50=None act_p10=None kw=194644136543 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:23:58,213 INFO row=138 OK sold=10 active=22 sold_p50=11.5 act_p10=10.0 kw=850050704539 mode=None cache=None raw=None took=11.11s
+2025-08-12 01:24:09,060 INFO row=139 OK sold=0 active=0 sold_p50=None act_p10=None kw=812887019743 mode=None cache=None raw=None took=10.85s
+2025-08-12 01:24:19,943 INFO row=140 OK sold=2 active=6 sold_p50=11.0 act_p10=9.5 kw=840390317155 mode=None cache=None raw=None took=10.88s
+2025-08-12 01:24:31,293 INFO row=141 OK sold=0 active=0 sold_p50=None act_p10=None kw=9120096770760 mode=None cache=None raw=None took=11.34s
+2025-08-12 01:24:43,042 INFO row=142 OK sold=2 active=3 sold_p50=33.0 act_p10=38.8 kw=10343910584 mode=None cache=None raw=None took=11.74s
+2025-08-12 01:24:43,043 INFO row=143 OK sold=1 active=11 sold_p50=13.0 act_p10=11.0 kw=745883799046 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:24:54,149 INFO row=144 OK sold=0 active=0 sold_p50=None act_p10=None kw=840372300670 mode=None cache=None raw=None took=11.11s
+2025-08-12 01:25:04,951 INFO row=145 OK sold=0 active=0 sold_p50=None act_p10=None kw=840414621237 mode=None cache=None raw=None took=10.80s
+2025-08-12 01:25:16,177 INFO row=146 OK sold=0 active=0 sold_p50=None act_p10=None kw=840268924348 mode=None cache=None raw=None took=11.23s
+2025-08-12 01:25:27,306 INFO row=147 OK sold=15 active=4 sold_p50=19.0 act_p10=22.9 kw=840173747537 mode=None cache=None raw=None took=11.12s
+2025-08-12 01:25:38,205 INFO row=148 OK sold=0 active=0 sold_p50=None act_p10=None kw=705954040972 mode=None cache=None raw=None took=10.90s
+2025-08-12 01:25:38,205 INFO row=149 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602720 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:25:49,018 INFO row=150 OK sold=0 active=0 sold_p50=None act_p10=None kw=840171748475 mode=None cache=None raw=None took=10.81s
+2025-08-12 01:25:59,716 INFO row=151 OK sold=1 active=0 sold_p50=13.0 act_p10=None kw=810161977819 mode=None cache=None raw=None took=10.70s
+2025-08-12 01:25:59,716 INFO row=152 OK sold=0 active=0 sold_p50=None act_p10=None kw=705954040972 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:26:10,432 INFO row=153 OK sold=0 active=0 sold_p50=None act_p10=None kw=198850385320 mode=None cache=None raw=None took=10.71s
+2025-08-12 01:26:10,432 INFO row=154 OK sold=0 active=0 sold_p50=None act_p10=None kw=90729615302 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:26:21,225 INFO row=155 OK sold=0 active=0 sold_p50=None act_p10=None kw=705954040989 mode=None cache=None raw=None took=10.79s
+2025-08-12 01:26:32,142 INFO row=156 OK sold=0 active=0 sold_p50=None act_p10=None kw=194644035198 mode=None cache=None raw=None took=10.92s
+2025-08-12 01:26:43,078 INFO row=157 OK sold=0 active=0 sold_p50=None act_p10=None kw=840171748482 mode=None cache=None raw=None took=10.94s
+2025-08-12 01:26:53,708 INFO row=158 OK sold=0 active=1 sold_p50=None act_p10=5.0 kw=191205525259 mode=None cache=None raw=None took=10.63s
+2025-08-12 01:27:04,606 INFO row=159 OK sold=0 active=0 sold_p50=None act_p10=None kw=97855153074 mode=None cache=None raw=None took=10.89s
+2025-08-12 01:27:42,998 ERROR Row 160 comps failed: Playwright failed to launch browser: Page.goto: net::ERR_CONNECTION_RESET at https://www.ebay.com/sch/i.html?_nkw=197960004268&LH_Sold=1&LH_Complete=1
+Call log:
+  - navigating to "https://www.ebay.com/sch/i.html?_nkw=197960004268&LH_Sold=1&LH_Complete=1", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\providers\ebay_scraper.py", line 61, in ebay_scrape_comps
+    sold_items = _collect(page, sold_url)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\providers\ebay_scraper.py", line 23, in _collect
+    page.goto(url, wait_until="domcontentloaded", timeout=60000)
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\sync_api\_generated.py", line 9019, in goto
+    self._sync(
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_page.py", line 556, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 558, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_CONNECTION_RESET at https://www.ebay.com/sch/i.html?_nkw=197960004268&LH_Sold=1&LH_Complete=1
+Call log:
+  - navigating to "https://www.ebay.com/sch/i.html?_nkw=197960004268&LH_Sold=1&LH_Complete=1", waiting until "domcontentloaded"
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\bstock-dashboard\bstock-dashboard-pro\app.py", line 138, in <module>
+    stats = get_comps(title, upc, min_similarity=min_sim)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\pricing.py", line 88, in get_comps
+    raw = _get_raw_for_keyword(kw)  # cached raw sold/active for this keyword
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\pricing.py", line 39, in _get_raw_for_keyword
+    raw = ebay_scrape_comps(kw)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\providers\ebay_scraper.py", line 70, in ebay_scrape_comps
+    raise RuntimeError(f"Playwright failed to launch browser: {e}")
+RuntimeError: Playwright failed to launch browser: Page.goto: net::ERR_CONNECTION_RESET at https://www.ebay.com/sch/i.html?_nkw=197960004268&LH_Sold=1&LH_Complete=1
+Call log:
+  - navigating to "https://www.ebay.com/sch/i.html?_nkw=197960004268&LH_Sold=1&LH_Complete=1", waiting until "domcontentloaded"
+
+2025-08-12 01:27:42,998 INFO row=161 OK sold=0 active=0 sold_p50=None act_p10=None kw=85239672235 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:27:42,998 INFO row=162 OK sold=4 active=16 sold_p50=41.0 act_p10=41.0 kw=879961009045 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:27:54,267 INFO row=163 OK sold=0 active=0 sold_p50=None act_p10=None kw=719192624894 mode=None cache=None raw=None took=11.26s
+2025-08-12 01:27:54,267 INFO row=164 OK sold=0 active=0 sold_p50=None act_p10=None kw=719192624894 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:28:05,124 INFO row=165 OK sold=0 active=3 sold_p50=None act_p10=20.2 kw=745883910984 mode=None cache=None raw=None took=10.85s
+2025-08-12 01:28:16,251 INFO row=166 OK sold=0 active=0 sold_p50=None act_p10=None kw=745883883134 mode=None cache=None raw=None took=11.13s
+2025-08-12 01:28:16,251 INFO row=167 OK sold=0 active=0 sold_p50=None act_p10=None kw=879961009052 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:28:30,073 INFO row=168 OK sold=0 active=0 sold_p50=None act_p10=None kw=745883840601 mode=None cache=None raw=None took=13.82s
+2025-08-12 01:28:30,073 INFO row=169 OK sold=0 active=0 sold_p50=None act_p10=None kw=198926005879 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:28:30,073 INFO row=170 OK sold=0 active=0 sold_p50=None act_p10=None kw=810119070937 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:28:40,806 INFO row=171 OK sold=0 active=0 sold_p50=None act_p10=None kw=847626006975 mode=None cache=None raw=None took=10.73s
+2025-08-12 01:28:51,627 INFO row=172 OK sold=0 active=0 sold_p50=None act_p10=None kw=810119070234 mode=None cache=None raw=None took=10.82s
+2025-08-12 01:29:02,625 INFO row=173 OK sold=0 active=0 sold_p50=None act_p10=None kw=734646083454 mode=None cache=None raw=None took=11.00s
+2025-08-12 01:29:02,625 INFO row=174 OK sold=10 active=14 sold_p50=13.5 act_p10=12.0 kw=745883877584 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:29:13,493 INFO row=175 OK sold=0 active=0 sold_p50=None act_p10=None kw=810125119507 mode=None cache=None raw=None took=10.87s
+2025-08-12 01:29:24,335 INFO row=176 OK sold=0 active=0 sold_p50=None act_p10=None kw=767501678373 mode=None cache=None raw=None took=10.84s
+2025-08-12 01:29:35,649 INFO row=177 OK sold=6 active=57 sold_p50=17.5 act_p10=13.0 kw=848467078060 mode=None cache=None raw=None took=11.32s
+2025-08-12 01:29:46,839 INFO row=178 OK sold=0 active=0 sold_p50=None act_p10=None kw=840056174160 mode=None cache=None raw=None took=11.19s
+2025-08-12 01:29:46,839 INFO row=179 OK sold=0 active=0 sold_p50=None act_p10=None kw=92636369323 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:29:46,839 INFO row=180 OK sold=0 active=0 sold_p50=None act_p10=None kw=840056174160 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:29:46,839 INFO row=181 OK sold=9 active=13 sold_p50=34.0 act_p10=17.6 kw=198420079178 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:29:58,079 INFO row=182 OK sold=27 active=13 sold_p50=38.0 act_p10=34.6 kw=97855193667 mode=None cache=None raw=None took=11.24s
+2025-08-12 01:30:09,445 INFO row=183 OK sold=17 active=27 sold_p50=14.0 act_p10=13.6 kw=840304771189 mode=None cache=None raw=None took=11.36s
+2025-08-12 01:30:09,445 INFO row=184 OK sold=0 active=0 sold_p50=None act_p10=None kw=97855062468 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:30:20,591 INFO row=185 OK sold=0 active=0 sold_p50=None act_p10=None kw=840304781904 mode=None cache=None raw=None took=11.15s
+2025-08-12 01:30:31,564 INFO row=186 OK sold=0 active=0 sold_p50=None act_p10=None kw=840304771424 mode=None cache=None raw=None took=10.97s
+2025-08-12 01:30:42,847 INFO row=187 OK sold=7 active=33 sold_p50=6.0 act_p10=6.2 kw=840056168145 mode=None cache=None raw=None took=11.28s
+2025-08-12 01:30:54,024 INFO row=188 OK sold=6 active=25 sold_p50=14.5 act_p10=13.4 kw=850050704324 mode=None cache=None raw=None took=11.18s
+2025-08-12 01:31:04,860 INFO row=189 OK sold=0 active=0 sold_p50=None act_p10=None kw=840390317087 mode=None cache=None raw=None took=10.83s
+2025-08-12 01:31:04,860 INFO row=190 OK sold=0 active=0 sold_p50=None act_p10=None kw=840390335777 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:31:04,860 INFO row=191 OK sold=0 active=0 sold_p50=None act_p10=None kw=810186494421 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:31:15,409 INFO row=192 OK sold=0 active=0 sold_p50=None act_p10=None kw=810186494414 mode=None cache=None raw=None took=10.54s
+2025-08-12 01:31:26,214 INFO row=193 OK sold=0 active=0 sold_p50=None act_p10=None kw=198420097455 mode=None cache=None raw=None took=10.81s
+2025-08-12 01:31:26,214 INFO row=194 OK sold=0 active=0 sold_p50=None act_p10=None kw=810186494421 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:31:26,214 INFO row=195 OK sold=0 active=0 sold_p50=None act_p10=None kw=810186494384 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:31:37,074 INFO row=196 OK sold=0 active=0 sold_p50=None act_p10=None kw=198420097493 mode=None cache=None raw=None took=10.86s
+2025-08-12 01:31:47,991 INFO row=197 OK sold=11 active=7 sold_p50=14.0 act_p10=15.600000000000001 kw=840390317094 mode=None cache=None raw=None took=10.91s
+2025-08-12 01:31:47,991 INFO row=198 OK sold=0 active=0 sold_p50=None act_p10=None kw=840390335777 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:31:58,833 INFO row=199 OK sold=3 active=2 sold_p50=13.0 act_p10=9.3 kw=198850234369 mode=None cache=None raw=None took=10.84s
+2025-08-12 01:32:09,587 INFO row=200 OK sold=0 active=0 sold_p50=None act_p10=None kw=198850234482 mode=None cache=None raw=None took=10.75s
+2025-08-12 01:32:20,605 INFO row=201 OK sold=0 active=0 sold_p50=None act_p10=None kw=840056164710 mode=None cache=None raw=None took=11.02s
+2025-08-12 01:32:20,605 INFO row=202 OK sold=0 active=1 sold_p50=None act_p10=20.0 kw=810125119569 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:32:31,636 INFO row=203 OK sold=0 active=0 sold_p50=None act_p10=None kw=10343941373 mode=None cache=None raw=None took=11.02s
+2025-08-12 01:32:42,708 INFO row=204 OK sold=0 active=0 sold_p50=None act_p10=None kw=745883819805 mode=None cache=None raw=None took=11.08s
+2025-08-12 01:32:42,708 INFO row=205 OK sold=0 active=0 sold_p50=None act_p10=None kw=745883819805 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:32:54,291 INFO row=206 OK sold=8 active=9 sold_p50=13.5 act_p10=10.6 kw=10343923027 mode=None cache=None raw=None took=11.58s
+2025-08-12 01:33:05,059 INFO row=207 OK sold=0 active=0 sold_p50=None act_p10=None kw=490080800827 mode=None cache=None raw=None took=10.76s
+2025-08-12 01:33:15,934 INFO row=208 OK sold=0 active=0 sold_p50=None act_p10=None kw=194644022303 mode=None cache=None raw=None took=10.87s
+2025-08-12 01:33:27,003 INFO row=209 OK sold=0 active=0 sold_p50=None act_p10=None kw=660685040960 mode=None cache=None raw=None took=11.07s
+2025-08-12 01:33:38,302 INFO row=210 OK sold=0 active=0 sold_p50=None act_p10=None kw=10343908239 mode=None cache=None raw=None took=11.30s
+2025-08-12 01:33:49,093 INFO row=211 OK sold=0 active=0 sold_p50=None act_p10=None kw=195950231489 mode=None cache=None raw=None took=10.79s
+2025-08-12 01:34:00,776 INFO row=212 OK sold=5 active=9 sold_p50=39.0 act_p10=37.8 kw=190780811993 mode=None cache=None raw=None took=11.68s
+2025-08-12 01:34:00,776 INFO row=213 OK sold=0 active=0 sold_p50=None act_p10=None kw=810119071224 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:34:11,840 INFO row=214 OK sold=7 active=21 sold_p50=10.0 act_p10=9.0 kw=30878832274 mode=None cache=None raw=None took=11.06s
+2025-08-12 01:34:11,840 INFO row=215 OK sold=0 active=0 sold_p50=None act_p10=None kw=810119071224 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:34:11,840 INFO row=216 OK sold=7 active=21 sold_p50=10.0 act_p10=9.0 kw=30878832274 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:34:23,037 INFO row=217 OK sold=0 active=0 sold_p50=None act_p10=None kw=10343902145 mode=None cache=None raw=None took=11.20s
+2025-08-12 01:34:33,618 INFO row=218 OK sold=0 active=0 sold_p50=None act_p10=None kw=850070309806 mode=None cache=None raw=None took=10.59s
+2025-08-12 01:34:44,283 INFO row=219 OK sold=0 active=0 sold_p50=None act_p10=None kw=810125112065 mode=None cache=None raw=None took=10.66s
+2025-08-12 01:34:54,859 INFO row=220 OK sold=0 active=0 sold_p50=None act_p10=None kw=198850385122 mode=None cache=None raw=None took=10.57s
+2025-08-12 01:34:54,859 INFO row=221 OK sold=0 active=0 sold_p50=None act_p10=None kw=840080584669 mode=None cache=None raw=None took=0.00s
+2025-08-12 01:35:05,812 INFO row=222 OK sold=0 active=0 sold_p50=None act_p10=None kw=810086361700 mode=None cache=None raw=None took=10.96s
+2025-08-12 12:43:18,052 ERROR Row 223 comps failed: Playwright timeout reaching eBay: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.ebay.com/sch/i.html?_nkw=33991107380&LH_Sold=1&LH_Complete=1", waiting until "domcontentloaded"
+Traceback (most recent call last):
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\providers\ebay_scraper.py", line 61, in ebay_scrape_comps
+    sold_items = _collect(page, sold_url)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\providers\ebay_scraper.py", line 23, in _collect
+    page.goto(url, wait_until="domcontentloaded", timeout=60000)
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\sync_api\_generated.py", line 9019, in goto
+    self._sync(
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_page.py", line 556, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 558, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.ebay.com/sch/i.html?_nkw=33991107380&LH_Sold=1&LH_Complete=1", waiting until "domcontentloaded"
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\bstock-dashboard\bstock-dashboard-pro\app.py", line 138, in <module>
+    stats = get_comps(title, upc, min_similarity=min_sim)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\pricing.py", line 88, in get_comps
+    raw = _get_raw_for_keyword(kw)  # cached raw sold/active for this keyword
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\pricing.py", line 39, in _get_raw_for_keyword
+    raw = ebay_scrape_comps(kw)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\providers\ebay_scraper.py", line 67, in ebay_scrape_comps
+    raise RuntimeError(f"Playwright timeout reaching eBay: {e}")
+RuntimeError: Playwright timeout reaching eBay: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.ebay.com/sch/i.html?_nkw=33991107380&LH_Sold=1&LH_Complete=1", waiting until "domcontentloaded"
+

@@ -1,0 +1,72 @@
+2025-08-11 20:54:42,628 INFO row=0 START title='LPGS100644' upc='840268972691'
+2025-08-11 20:54:56,510 INFO row=0 OK sold=0 active=0 sold_p50=None act_p10=None kw=840268972691 took=13.88s
+2025-08-11 20:54:56,511 INFO row=1 START title='LPGS554027' upc='840173602720'
+2025-08-11 20:55:07,695 INFO row=1 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602720 took=11.18s
+2025-08-11 20:55:07,695 INFO row=2 START title='LPGS312188' upc='608410061088'
+2025-08-11 20:55:18,844 INFO row=2 OK sold=0 active=0 sold_p50=None act_p10=None kw=608410061088 took=11.15s
+2025-08-11 20:55:18,844 INFO row=3 START title='LPGS832061' upc='745883799046'
+2025-08-11 20:55:30,122 INFO row=3 OK sold=0 active=0 sold_p50=None act_p10=None kw=745883799046 took=11.28s
+2025-08-11 20:55:30,122 INFO row=4 START title='LPHQ328362' upc='840173602720'
+2025-08-11 20:55:30,123 INFO row=4 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602720 took=0.00s
+2025-08-11 20:55:30,123 INFO row=5 START title='LPGS541040' upc='608410061088'
+2025-08-11 20:55:30,124 INFO row=5 OK sold=0 active=0 sold_p50=None act_p10=None kw=608410061088 took=0.00s
+2025-08-11 20:55:30,124 INFO row=6 START title='LPHQ030091' upc='810089906120'
+2025-08-11 20:55:41,613 INFO row=6 OK sold=0 active=0 sold_p50=None act_p10=None kw=810089906120 took=11.49s
+2025-08-11 20:55:41,614 INFO row=7 START title='LPGS943451' upc='745883799046'
+2025-08-11 20:55:41,614 INFO row=7 OK sold=0 active=0 sold_p50=None act_p10=None kw=745883799046 took=0.00s
+2025-08-11 20:55:41,614 INFO row=8 START title='LPGS921417' upc='810046114957'
+2025-08-11 20:55:52,829 INFO row=8 OK sold=0 active=0 sold_p50=None act_p10=None kw=810046114957 took=11.22s
+2025-08-11 20:55:52,829 INFO row=9 START title='LPGS880531' upc='840295405704'
+2025-08-11 20:56:03,942 INFO row=9 OK sold=0 active=0 sold_p50=None act_p10=None kw=840295405704 took=11.11s
+2025-08-11 20:56:03,943 INFO row=10 START title='LPGS676642' upc='840268928780'
+2025-08-11 20:56:15,283 INFO row=10 OK sold=0 active=0 sold_p50=None act_p10=None kw=840268928780 took=11.34s
+2025-08-11 20:56:15,283 INFO row=11 START title='LPGS326673' upc='840173602720'
+2025-08-11 20:56:15,284 INFO row=11 OK sold=0 active=0 sold_p50=None act_p10=None kw=840173602720 took=0.00s
+2025-08-11 20:56:15,284 INFO row=12 START title='LPGS826027' upc='92636248475'
+2025-08-11 20:56:18,064 ERROR Row 12 comps failed: Playwright failed to launch browser: Locator.all: Target page, context or browser has been closed
+Traceback (most recent call last):
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\providers\ebay_scraper.py", line 61, in ebay_scrape_comps
+    sold_items = _collect(page, sold_url)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\providers\ebay_scraper.py", line 30, in _collect
+    rows = page.locator(".s-item").all()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\sync_api\_generated.py", line 16736, in all
+    return mapping.from_impl_list(self._sync(self._impl_obj.all()))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_locator.py", line 399, in all
+    for index in range(await self.count()):
+                       ^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_locator.py", line 406, in count
+    return await self._frame._query_count(self._selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_frame.py", line 136, in _query_count
+    return await self._channel.send("queryCount", None, {"selector": selector})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 558, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Locator.all: Target page, context or browser has been closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\bstock-dashboard\bstock-dashboard-pro\app.py", line 100, in <module>
+    stats = get_comps(title, upc, min_similarity=min_sim)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\pricing.py", line 88, in get_comps
+    raw = _get_raw_for_keyword(kw)  # cached raw sold/active for this keyword
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\pricing.py", line 39, in _get_raw_for_keyword
+    raw = ebay_scrape_comps(kw)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\bstock-dashboard\bstock-dashboard-pro\src\providers\ebay_scraper.py", line 70, in ebay_scrape_comps
+    raise RuntimeError(f"Playwright failed to launch browser: {e}")
+RuntimeError: Playwright failed to launch browser: Locator.all: Target page, context or browser has been closed
+2025-08-11 20:56:18,066 INFO row=13 START title='LPGS539788' upc='840272914656'
+2025-08-11 20:56:29,311 INFO row=13 OK sold=0 active=0 sold_p50=None act_p10=None kw=840272914656 took=11.25s

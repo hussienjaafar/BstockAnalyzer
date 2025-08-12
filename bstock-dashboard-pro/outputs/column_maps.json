@@ -1,0 +1,18 @@
+{
+  "c425ae6db60d13f4c8ec04a5bd1af37c": {
+    "Qty": "qty",
+    "UPC": "upc",
+    "Condition": "condition",
+    "Unit Retail": "msrp",
+    "Item #": "title",
+    "Seller Category": "category"
+  },
+  "default": {
+    "title": "Item Description",
+    "upc": "UPC",
+    "qty": "Qty",
+    "unit_cost": "(none)",
+    "condition": "Condition",
+    "sku": "Item #"
+  }
+}
