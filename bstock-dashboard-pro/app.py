@@ -33,9 +33,11 @@ from src.parsing import load_manifest_df
 from src.pricing import get_comps, apply_price_strategy, velocity_adjustment
 from src.model import simulate_lot, compute_max_bid, CostAssumptions
 from src.utils import money
+from src.ui import inject_custom_css
 
 load_dotenv()
-st.set_page_config(page_title="B-Stock PRO Dashboard", layout="wide")
+st.set_page_config(page_title="B-Stock PRO Dashboard", page_icon="📦", layout="wide")
+inject_custom_css()
 st.title("📦 B-Stock PRO — Auction Analyzer")
 
 # ---- Sidebar ----
