@@ -9,12 +9,24 @@
     --radius-lg: 12px;
     --radius-sm: 6px;
     --shadow-sm: 0 1px 2px rgba(0,0,0,0.04), 0 1px 3px rgba(0,0,0,0.1);
+
+    /* Override Streamlit's theme variables so text remains dark even if the user
+       has a personal dark theme selected. */
+    --text-color: var(--color-text);
+    --background-color: var(--color-bg);
+    --secondary-background-color: var(--color-surface);
+    --primary-color: var(--color-primary);
 }
 
 body, .stApp {
-    background-color: var(--color-bg);
-    color: var(--color-text);
+    background-color: var(--color-bg) !important;
+    color: var(--color-text) !important;
     font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+}
+
+/* Ensure general text elements remain readable */
+.stApp p, .stApp span, .stApp label, .stApp li {
+    color: var(--color-text) !important;
 }
 
 /* Sidebar */
