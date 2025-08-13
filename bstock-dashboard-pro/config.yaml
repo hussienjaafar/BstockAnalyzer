@@ -1,0 +1,11 @@
+# Default configuration for B-Stock Analyzer
+# This YAML file allows overriding environment defaults.
+
+# Which eBay provider to use: 'api', 'scrape', or 'auto'.
+ebay_provider: auto
+
+# Include shipping costs when calculating comparison prices.
+include_shipping_in_comps: true
+
+# Cache TTL (seconds) for provider results.
+comps_cache_ttl_sec: 604800  # 7 days
