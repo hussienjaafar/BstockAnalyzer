@@ -1,0 +1,41 @@
+{
+  "findCompletedItemsResponse": [
+    {
+      "searchResult": [
+        {
+          "@count": "2",
+          "item": [
+            {
+              "itemId": ["123"],
+              "title": ["Widget A"],
+              "sellingStatus": [
+                {
+                  "currentPrice": [{"@currencyId": "USD", "__value__": "10.0"}]
+                }
+              ],
+              "shippingInfo": [
+                {"shippingServiceCost": [{"@currencyId": "USD", "__value__": "2.0"}]}
+              ],
+              "condition": [{"conditionDisplayName": ["New"]}],
+              "listingInfo": [{"endTime": ["2024-01-01T00:00:00.000Z"], "bestOfferAccepted": ["false"]}]
+            },
+            {
+              "itemId": ["456"],
+              "title": ["Widget B"],
+              "sellingStatus": [
+                {
+                  "currentPrice": [{"@currencyId": "USD", "__value__": "20.0"}]
+                }
+              ],
+              "shippingInfo": [
+                {"shippingServiceCost": [{"@currencyId": "USD", "__value__": "0.0"}]}
+              ],
+              "condition": [{"conditionDisplayName": ["Used"]}],
+              "listingInfo": [{"endTime": ["2024-01-02T00:00:00.000Z"], "bestOfferAccepted": ["true"]}]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

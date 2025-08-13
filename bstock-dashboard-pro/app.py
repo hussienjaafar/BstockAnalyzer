@@ -33,9 +33,11 @@ from src.parsing import load_manifest_df
 from src.pricing import get_comps, apply_price_strategy, velocity_adjustment
 from src.model import simulate_lot, compute_max_bid, CostAssumptions
 from src.utils import money
+from src.ui import inject_custom_css
 
 load_dotenv()
-st.set_page_config(page_title="B-Stock PRO Dashboard", layout="wide")
+st.set_page_config(page_title="B-Stock PRO Dashboard", page_icon="📦", layout="wide")
+inject_custom_css()
 st.title("📦 B-Stock PRO — Auction Analyzer")
 
 # ---- Sidebar ----
@@ -46,6 +48,8 @@ with st.sidebar:
                         help="Fuzzy title match; higher=cleaner comps, lower=more results")
     max_rows = st.slider("Rows to process (first N)", 1, 500, 50, step=1,
                          help="Throttles scraping; re-run for more.")
+    provider_mode = st.selectbox("eBay provider", ["auto", "api", "scrape"], index=0)
+    evid_n = st.slider("Evidence items", 1, 10, 3, step=1)
     st.markdown("### Pricing strategy")
     strat = st.radio("Strategy", ["Median market price", "Undercut market", "Premium to market"], index=0)
     pct = 0.0
@@ -135,7 +139,8 @@ with tabs[0]:
             start = time.perf_counter()
             st.write(f"🔎 {title[:70]}{'...' if len(title)>70 else ''}")
             try:
-                stats = get_comps(title, upc, min_similarity=min_sim)
+                stats = get_comps(title, upc, min_similarity=min_sim,
+                                  provider_mode=provider_mode, n_evidence=evid_n)
                 took = time.perf_counter() - start
                 logger.info(
                     f"row={idx} OK sold={stats.get('sold_count')} active={stats.get('active_count')} "
@@ -156,14 +161,20 @@ with tabs[0]:
             with st.expander(f"Evidence (row {idx}) — mode={stats.get('query_mode')} kw={stats.get('keyword')}"):
                 ev = stats.get("evidence", {})
                 sold_e = ev.get("sold", []); active_e = ev.get("active", [])
-                st.write("**Sold matches (top 3):**")
+                st.write(f"**Sold matches (top {len(sold_e)}):**")
                 for it in sold_e:
                     st.markdown(f"- {it.get('title','(no title)')} — ${it.get('price')}  " +
                                 (f"[link]({it.get('url')})" if it.get('url') else ""))
-                st.write("**Active matches (top 3):**")
+                st.write(f"**Active matches (top {len(active_e)}):**")
                 for it in active_e:
                     st.markdown(f"- {it.get('title','(no title)')} — ${it.get('price')}  " +
                                 (f"[link]({it.get('url')})" if it.get('url') else ""))
+                st.download_button(
+                    "Download raw comps JSON",
+                    data=json.dumps(ev, indent=2),
+                    file_name=f"row_{idx}_comps.json",
+                    mime="application/json",
+                )
 
             ebay_stats[idx] = stats
 

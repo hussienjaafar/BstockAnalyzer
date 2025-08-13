@@ -1,0 +1,27 @@
+{
+  "findItemsAdvancedResponse": [
+    {
+      "searchResult": [
+        {
+          "@count": "1",
+          "item": [
+            {
+              "itemId": ["789"],
+              "title": ["Widget C"],
+              "sellingStatus": [
+                {
+                  "currentPrice": [{"@currencyId": "USD", "__value__": "15.0"}]
+                }
+              ],
+              "shippingInfo": [
+                {"shippingServiceCost": [{"@currencyId": "USD", "__value__": "3.0"}]}
+              ],
+              "condition": [{"conditionDisplayName": ["New"]}],
+              "listingInfo": [{"endTime": ["2024-01-10T00:00:00.000Z"], "bestOfferAccepted": ["false"]}]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
