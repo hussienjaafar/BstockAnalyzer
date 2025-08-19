@@ -5,6 +5,10 @@
     --text-color: #262730;
 }
 
+* {
+    color: var(--text-color) !important;
+}
+
 .stApp {
     background-color: var(--bg-color);
     color: var(--text-color);
